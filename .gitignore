@@ -1,3 +1,10 @@
+# pelican cruft
+cache/
+output/
+pelican.pid
+srv.pid
+trash/
+
 # pdflatex built 
 *.aux
 *.log
